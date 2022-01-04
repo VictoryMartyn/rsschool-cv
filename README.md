@@ -4,4 +4,5 @@
 https://github.com/VictoryMartyn/rsschool-cv
 # index.html
 # style.css
-https://github.com/VictoryMartyn/rsschool-cv
+https://VictoryMartyn.github.io/rsschool-cv/cv
+https://VictoryMartyn.github.io/rsschool-cv/
