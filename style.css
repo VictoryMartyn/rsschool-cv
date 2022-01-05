@@ -1,4 +1,64 @@
-# Work Expirience
-**I have no experience in IT sphere**
-### CONTACT ME
-####Discord : @victory_martyn#4887
+
+  body {
+    box-sizing: border-box;
+    background-color: #41ced8;
+  }
+  
+  .container-centered {
+    margin: 25px auto;
+    width: 1020px;
+    font-family: "Cabin", sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    background-color: #a79fee;
+    box-shadow: 10px 10px 40px -1px rgba(0, 0, 0, 0.23);
+  }
+   
+  header {
+    padding: 30px;
+    text-align: center;
+    background-color: #d2d0dd;
+  }
+  
+  header h1 {
+    margin-bottom: 10px;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.1;
+
+  }
+  
+  main {
+    padding: 0 40px;
+  }
+  
+  main .contacts h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    transform: translate(0, -50%);
+  }
+  
+  .education p {
+    margin-left: 45px;
+  }
+  
+  .courses {
+    margin-left: 45px;
+    margin-bottom: 30px;
+  }
+  
+  footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 0.8rem;
+    color: #be3796;
+    background-color: var(--dark-gray-color);
+  }
+
+  .my-github {
+    display: flex;
+    align-items: center;
+  }
+  
